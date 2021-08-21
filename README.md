@@ -1,2 +1,2 @@
 # pauuser.github.io
-This repository is test host for my HTML course.
+This repository initialises my server for web deployment.
